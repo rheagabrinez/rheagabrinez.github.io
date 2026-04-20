@@ -52,7 +52,6 @@ body
 			width: 1%;
 		}
 
-		/*appetizers*/
 
 		header
 		{
@@ -84,7 +83,6 @@ body
 			border: 1px solid #333;
 		}
 
-		/*burgers*/
 			.main-title p
 		{
 			color: red;
@@ -123,7 +121,6 @@ body
 			width: 600px;
 			height: 80px;
 		}
-		/*desserts*/
 		#dessert-name
 		{
 			font-weight: bold;
