@@ -73,7 +73,7 @@ body
 			font-size: 16px;
 			font-family: courier;
 		}
-		#dessert-name
+		#rice-title
 		{
 			font-weight: bold;
 			font-size: 120%;
@@ -92,11 +92,6 @@ body
 		{
 			font-size: 16px;
 			font-family: courier;
-		}
-		#dessert-name
-		{
-			font-weight: bold;
-			font-size: 120%;
 		}
 		/*contact*/
 
@@ -120,9 +115,4 @@ body
 		{
 			width: 600px;
 			height: 80px;
-		}
-		#dessert-name
-		{
-			font-weight: bold;
-			font-size: 120%;
 		}
